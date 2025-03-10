@@ -19,6 +19,6 @@
   "dependencies": {
     "chalk": "^5.2.0",
     "find-free-port": "^2.0.0",
-    "pkg-types": "^1.2.0"
+    "pkg-types": "^2.1.0"
   }
 }
